@@ -1,0 +1,20 @@
+h1 {
+  font-family: Montserrat-black;
+  font-size: 3.5rem;
+  text-align: center;
+}
+p {
+  color: #8f8f8f;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Pricing Section */
+#pricing {
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
